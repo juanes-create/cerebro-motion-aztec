@@ -27,7 +27,7 @@ Todo corre **en tu computadora**: tus videos no se suben a ningún lado y no nec
 ## Instalación (10 minutos)
 
 ```bash
-git clone https://github.com/pedro-aztec/cerebro-motion-aztec.git
+git clone https://github.com/juanes-create/cerebro-motion-aztec.git
 cd cerebro-motion-aztec
 ./instalar.sh
 ```
