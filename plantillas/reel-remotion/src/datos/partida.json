@@ -1,0 +1,5 @@
+{
+  "_ayuda": "Tramos con pantalla partida: [desde, hasta, px que BAJA el video]. El 'bajar' sale de herramientas/cabeza.py --panel 990 --tramos ...",
+  "panel": 990,
+  "tramos": [[3.0, 9.5, 420]]
+}

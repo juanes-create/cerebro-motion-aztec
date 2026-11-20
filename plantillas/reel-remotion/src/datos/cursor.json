@@ -1,0 +1,6 @@
+{
+  "_ayuda": "Fuente ÚNICA de verdad del cursor: la dibuja ui.tsx y la suena herramientas/efectos.py --cursor. Puntos [t, x, y]; dos puntos iguales = quieto.",
+  "visible": [[4.2, 9.2]],
+  "puntos": [[4.2, 760, 880], [5.4, 820, 640], [6.6, 820, 640], [6.9, 820, 640]],
+  "clics": { "enviar": 6.4 }
+}

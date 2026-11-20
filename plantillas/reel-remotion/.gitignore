@@ -1,0 +1,8 @@
+node_modules/
+build/
+out/
+ref/
+public/video/
+audio/*.wav
+*.m4a
+.tmp/

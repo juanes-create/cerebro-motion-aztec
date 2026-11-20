@@ -1,0 +1,15 @@
+# tus archivos: nunca se suben
+videos/*
+!videos/.gitkeep
+proyectos/*
+!proyectos/.gitkeep
+modelos/*
+!modelos/.gitkeep
+# binarios compilados de Vision (se generan con herramientas/swift/compilar.sh)
+herramientas/bin/
+# basura
+__pycache__/
+*.pyc
+.DS_Store
+._*
+node_modules/

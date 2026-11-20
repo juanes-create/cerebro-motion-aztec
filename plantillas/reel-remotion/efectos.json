@@ -1,0 +1,6 @@
+{
+  "_ayuda": "Efectos casi imperceptibles, debajo de la voz. Nunca tling/ping/aprobación. 'sonido' = ruta o nombre de la librería de HyperFrames (media-use). Los clics del cursor ya los pone montar.sh solos.",
+  "cues": [
+    { "t": 3.0, "sonido": "whoosh-short", "pico": -35, "filtro": "highpass=f=220,lowpass=f=7500", "alinear": "pico" }
+  ]
+}
